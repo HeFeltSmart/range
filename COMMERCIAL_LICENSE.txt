@@ -1,0 +1,39 @@
+==============================================================================
+COMMERCIAL PROPRIETARY PROPRIETARY PROPRIETARY LICENSE AGREEMENT
+==============================================================================
+Publisher/Licensor: Daniel J DeLuca
+Software Asset:     range (Multi-Dimensional Spatial Validation Library)
+Website:            https://github.com
+
+1. DEFINITIONS
+"Licensor" refers to Daniel J DeLuca, the sole author and copyright owner 
+of the Software. "Licensee" refers to the purchasing corporate entity or 
+individual utilizing the Software under this agreement. "Software" refers 
+to the range header files, source code modules, and associated documentation.
+
+2. GRANT OF LICENSE
+Subject to the terms and timely payment of the chosen commercial tier fee, 
+Licensor grants Licensee a non-exclusive, non-transferable, perpetual license 
+to embed, modify, and distribute the Software within Licensee's proprietary, 
+closed-source commercial products.
+
+3. EXEMPTION FROM COPYLEFT REQUIREMENT
+The Software delivered under this agreement is explicitly exempt from the 
+GNU General Public License v3.0 (GPLv3) requirements. Licensee is under no 
+obligation to disclose, publish, or share their proprietary application 
+or firmware source code that integrates or references the Software.
+
+4. RESTRICTIONS
+Licensee shall not resell, redistribute, or sub-license the raw, unmodified 
+Software source files as a standalone software development toolkit (SDK).
+
+5. WARRANTY AND LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT 
+OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE.
+
+==============================================================================
+For licensing verification and custom procurement processing, contact:
+dandeluca@att.net
+==============================================================================
