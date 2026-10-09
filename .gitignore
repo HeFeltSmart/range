@@ -1,0 +1,14 @@
+# Ignore hidden IDE configuration folders
+.vscode/
+.idea/
+
+# Ignore local batch compilation tools and diagnostic dumps
+build.bat
+compile_dump.txt
+*.exe
+*.o
+*.obj
+
+# Ignore temporary Windows system artifacts
+Thumbs.db
+desktop.ini
