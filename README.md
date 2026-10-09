@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 range
 
 A lightweight, header-only, type-safe range and multi-dimensional spatial validation library for standard C (C99+).
@@ -74,3 +75,6 @@ bool is_target_in_window(const RadarWindowCube3D *window, const RadarPoint3D *ta
 }
 Use code with caution.
 Under -O2 compilation, the nested macro block expands cleanly into flat register comparisons and branch jumps with zero call-stack overhead, achieving complete data-type flexibility without wasting a single CPU cycle.
+=======
+# range
+>>>>>>> 21634300cf229aeec8ea09b6aceb683a2a41834c
