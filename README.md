@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 range
 
 A lightweight, header-only, type-safe range and multi-dimensional spatial validation library for standard C (C99+).
@@ -75,6 +74,20 @@ bool is_target_in_window(const RadarWindowCube3D *window, const RadarPoint3D *ta
 }
 Use code with caution.
 Under -O2 compilation, the nested macro block expands cleanly into flat register comparisons and branch jumps with zero call-stack overhead, achieving complete data-type flexibility without wasting a single CPU cycle.
-=======
-# range
->>>>>>> 21634300cf229aeec8ea09b6aceb683a2a41834c
+
+---
+
+## Commercial Licensing & Enterprise Support
+
+While this library is distributed under the open-source **GPLv3 license** for community integration, proprietary device manufacturers, enterprise software vendors, and closed-source commercial hardware teams can procure a **Commercial Proprietary License**.
+
+Acquiring a commercial license completely waives the copyleft requirement, allowing your organization to integrate the stack-optimized, parameter-reducing math of this validation engine within your closed-source firmware assets without being legally forced to disclose or share your proprietary application source code.
+
+### Commercial Procurement Tiers
+
+*   **Startup / Per-Product License ($495 single-payment):** Grants perpetual usage rights to embed the library within one specified commercial product line. Includes 30 days of direct integration email support.
+*   **Corporate Site License ($2,495/year subscription):** Unlimited usage across all internal fixtures, product lines, and development teams operating at a single designated facility or team site. Includes priority 48-hour email support.
+*   **Enterprise Buyout License ($7,500 single-payment):** Perpetual, worldwide, royalty-free usage across any product developed or manufactured by the organization, including distribution and sub-licensing rights for tier-1 supply networks. Includes 1 year of direct engineering architecture alignment reviews.
+
+For enterprise procurement processing, bulk licensing verification, custom vendor registration, or corporate invoice handling, please contact: **dandeluca@att.net**
+
